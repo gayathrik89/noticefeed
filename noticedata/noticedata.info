@@ -1,0 +1,5 @@
+name = Notice Data
+description = Notice data feed from the The Gazette REST API.
+package = Custom
+version = VERSION
+core = 7.x
