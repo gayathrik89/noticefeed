@@ -26,4 +26,4 @@ hook menu name : noticedatadisplay
 
 3. Clear the drupal cache after enabing the module : Go to ?q=admin/config/development/performance and click "Clear all caches".
 
-4. Now hit the following url <domain_name>/noticedatadisplay, detais will be fetched from the Gazette REST API.
+4. Now hit the following url <domain_name>/noticedatadisplay, details will be fetched from the Gazette REST API.
